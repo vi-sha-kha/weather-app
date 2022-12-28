@@ -16,6 +16,7 @@ A simple weather application that displays a weather forecast for the user's cho
 ## UI library-react-bootstrap
 -react bootstrap for ui components and css classes
 ## Wireframes for project
-[!alt]("https://user-images.githubusercontent.com/96693728/209865832-4703bb3c-2b7a-4f28-8b69-a8ab93331018.png")
+![weatherapp drawio-3](https://user-images.githubusercontent.com/96693728/209866625-0da3689a-a8aa-43dd-8cdb-8f9ff2c3ca0f.png)
+
 
 
