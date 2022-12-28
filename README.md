@@ -11,6 +11,7 @@ A simple weather application that displays a weather forecast for the user's cho
 
 ## State Management - Redux:
 -cities- list of available cities
+
 -recentCity-list of cities searched recently by the user
 ## UI library-react-bootstrap
 -react bootstrap for ui components and css classes
