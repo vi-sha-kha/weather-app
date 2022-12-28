@@ -20,5 +20,5 @@ A simple weather application that displays a weather forecast for the user's cho
 
 
 ## Wireframes for project
-
+![weatherapp drawio-5](https://user-images.githubusercontent.com/96693728/209862973-30da1ec6-3b35-42f6-9b28-a215da42326b.svg)
 
