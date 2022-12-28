@@ -15,4 +15,4 @@ A simple weather application that displays a weather forecast for the user's cho
 ## UI library-react-bootstrap
 -react bootstrap for ui components and css classes
 ## Wireframes for project
-..
+![weatherapp drawio-4](https://user-images.githubusercontent.com/96693728/209861918-ecb2030f-324d-4e47-95a7-51213f17a975.svg)
